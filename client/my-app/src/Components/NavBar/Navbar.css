@@ -1,0 +1,23 @@
+.container-fluid{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.link{
+    text-decoration: none;
+}
+.name{
+    color: rgb(50, 50, 175);
+    margin-right: 150px;
+   
+}
+.logout:hover{
+  background-color: rgb(209, 136, 136);
+  transition: 0.3s;
+}
+.navbar{
+    position: fixed;
+    width: 100%;
+    top:0;
+    z-index: 1000000;
+}

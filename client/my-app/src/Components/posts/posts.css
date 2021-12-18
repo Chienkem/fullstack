@@ -1,0 +1,15 @@
+.card-header{
+    background-color: cornflowerblue  ;
+}
+.card{
+    width: 400px;
+    margin: auto;
+    margin-bottom: 40px;
+}
+.card_container{
+    margin-top: 100px;
+}
+#icon:hover{
+   background-color: rgb(255, 116, 116);
+   transition: 0.4s;
+}
